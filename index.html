@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hangman Game</title>
+</head>
+
+<body>
+    <div class="hangman game">
+        <div class="word-to-guess">
+            <span class="letter">_</span>
+            <span class="letter">_</span>
+            <span class="letter">_</span>
+            <span class="letter">_</span>
+            <span class="letter">_</span>
+        </div>
+
+        <div class="type-letters"></div>
+
+        <div class="gallows-drawing">
+            <div class="head"></div>
+            <div class="body"></div>
+            <div class="left arm"></div>
+            <div class="right arm"></div>
+            <div class="left leg"></div>
+            <div class="right leg"></div>
+        </div>
+
+        <div class="attempts-remaining">Attempts left: 6</div>
+
+        <div>
+            <button class="new-game">New Game</button>
+            <button class="send-letter">Send Letter</button>
+            <input class="textbox" type="text" placeholder="Type letter">
+        </div>
+    </div>
+</body>
+<script src="/assets/scripts/main.js"></script>
+</html>
