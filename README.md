@@ -2,7 +2,9 @@
 
 -> This is a simple Rock, Paper, Scissors game made with HTML, CSS and JavaScript. It allows the user to play against the computer and see the result of the match. This project was developed using Tailwind CSS as a style framework.
 
-# Demo Application
+# Demonstration
+
+![FireShot Capture 030 - Pedra, Papel e Tesoura! - João Pedro_ - project-rock-paper-and-scissors-game vercel app](https://user-images.githubusercontent.com/122818137/216374196-842bc0b8-41c7-4972-bc8d-bf0caa16d26c.png)
 
 
 ## How to Play 
